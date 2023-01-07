@@ -1,0 +1,12 @@
+[package]
+name = "rustpass"
+version = "0.1.0"
+author = "jrzvnn jrzvnn@gmail.com"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+clap = "2.33.3"
+rusqlite = "0.25.2"
+
